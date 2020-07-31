@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java ColToSat $1 $2
